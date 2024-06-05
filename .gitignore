@@ -1,3 +1,7 @@
 models/*
 .ipynb_checkpoints
 .ipynb_checkpoints/*
+.idea
+.ipynb_checkpoints
+reality/venv
+reality/venv/*
